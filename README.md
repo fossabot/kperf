@@ -1,4 +1,6 @@
 # kperf
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Fkperf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Fkperf?ref=badge_shield)
+
 
 *This performance tool is no longer maintained*
 
@@ -56,3 +58,7 @@ Use "kperf service [command] --help" for more information about a command.
 
 See the [docs](docs/examples.md) for more details on how to run the individual commands.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fknative-extensions%2Fkperf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fknative-extensions%2Fkperf?ref=badge_large)
